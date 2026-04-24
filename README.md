@@ -81,4 +81,4 @@ Strategic Corridors: Hebbal and Whitefield remain the primary hubs for luxury la
 
 The data cleaning process addressed both structural and data-level inconsistencies across the dataset. Using the **Cleaning_data.py** script, tasks such as column header standardization, handling missing or empty rows, removal of unwanted symbols and extra spaces, regional data imputation, and outlier treatment based on business rules were performed. This process generated a refined dataset **(Cleaned_data - output.csv)** ready for analysis.
 
-Subsequently, a SQL database was created using **SQL.py**, and the cleaned data was loaded into MySQL. Finally, the database was integrated with **Power BI Desktop** to develop interactive dashboards and data visualizations.
+Subsequently, a SQL database was created using **SQL.py**, and the cleaned data was loaded into MySQL. Finally, the database was integrated with **Power BI Desktop** to develop interactive dashboards and data visualizations **(Housing_Analysis.pbix)**.
